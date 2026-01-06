@@ -1,5 +1,5 @@
 # graalvm-tracing-demo
-Using the Native Tracing Agent on a Long Running Process
+Using the Native Tracing Agent on a Long Running Process with config-write-period-secs
 
 You can run the demo by executing the following commands after cloning the repository:
 
